@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#My env file
+.env 
+
+# Firebase
+*firebase.config.js*
